@@ -69,8 +69,8 @@ source_suffix = ".rst"
 master_doc = "index"
 
 # General information about the project.
-project = u"PySwarms"
-copyright = u"2017, Lester James V. Miranda"
+project = "PySwarms"
+copyright = "2017, Lester James V. Miranda"
 
 # The version info for the project you're documenting, acts as replacement
 # for |version| and |release|, also used in various other places throughout
@@ -232,8 +232,8 @@ latex_documents = [
     (
         "index",
         "pyswarms.tex",
-        u"PySwarms Documentation",
-        u"Lester James V. Miranda",
+        "PySwarms Documentation",
+        "Lester James V. Miranda",
         "manual",
     )
 ]
@@ -267,8 +267,8 @@ man_pages = [
     (
         "index",
         "pyswarms",
-        u"PySwarms Documentation",
-        [u"Lester James V. Miranda"],
+        "PySwarms Documentation",
+        ["Lester James V. Miranda"],
         1,
     )
 ]
@@ -286,8 +286,8 @@ texinfo_documents = [
     (
         "index",
         "pyswarms",
-        u"PySwarms Documentation",
-        u"Lester James V. Miranda",
+        "PySwarms Documentation",
+        "Lester James V. Miranda",
         "pyswarms",
         "PySwarms is a simple, Python-based, Particle Swarm Optimization (PSO) library.",
         "Research",
